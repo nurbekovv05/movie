@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49110934-d128-4a9c-a2b8-85d56316ad0d" name="Changes" comment="" />
+    <list default="true" id="49110934-d128-4a9c-a2b8-85d56316ad0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img/movie-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/upcoming-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/css/hero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/css/hero.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/__mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/__mixins.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +72,10 @@
       <updated>1664273035945</updated>
       <workItem from="1664273037268" duration="626000" />
       <workItem from="1664276719900" duration="1025000" />
-      <workItem from="1664429860182" duration="622000" />
+      <workItem from="1664429860182" duration="2359000" />
+      <workItem from="1664432270246" duration="1585000" />
+      <workItem from="1664449820206" duration="971000" />
+      <workItem from="1664685952879" duration="1593000" />
     </task>
     <servers />
   </component>
