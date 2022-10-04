@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49110934-d128-4a9c-a2b8-85d56316ad0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/scss/rated.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/__global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/__global.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/upcoming.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/upcoming.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/upcoming.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +76,8 @@
       <workItem from="1664688461540" duration="28000" />
       <workItem from="1664688504028" duration="1417000" />
       <workItem from="1664697766837" duration="8652000" />
+      <workItem from="1664785956313" duration="3582000" />
+      <workItem from="1664856025554" duration="8020000" />
     </task>
     <servers />
   </component>
